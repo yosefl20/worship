@@ -2,19 +2,19 @@
 {key: A}
 {time: 4/4}
 
-{start_of_verse}
+{sov}
 [A]我站在山顶上 [A]大声呼喊宣告
 [D]你良善无止尽 [D]永远不会停息
 [F#m]你慈爱随着我 [F#m]充满我的生命
 [A]你爱让我惊[E]奇
-{end_of_verse}
+{eov}
 
-{start_of_verse}
+{sov}
 [A]再没有任何人 [A]能够与你相比
 [D]天地和深海洋 [D]都显明这真理
 [F#m]在黑暗的时刻 [F#m]你如明亮辰星
 [A]你爱让我惊[E]奇
-{end_of_verse}
+{eov}
 
 {soc}
 [A]And I Sing 因为你真好   [A]And I Dance 因为你真好
@@ -24,9 +24,9 @@
 [D]你对我真好
 {eoc}
 
-{start_of_bridge}
+{sob}
 [Bm]我全心宣告 [D]让世界知道
 [A]你真好 你真好
 [Bm]晴天或雨天 [D]我都要赞美
 [A]你真好 你真好
-{end_of_bridge}
+{eob}
